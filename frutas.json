@@ -1,0 +1,37 @@
+[{
+        "id": 1,
+        "nombre": "banana",
+        "imagen": "/png/banana.png",
+        "precio": 800
+    },
+    {
+        "id": 2,
+        "nombre": "cebollas",
+        "imagen": "/png/cebollas.png",
+        "precio": 500
+    },
+    {
+        "id": 3,
+        "nombre": "pimenton",
+        "imagen": "/png/pimenton.png",
+        "precio": 400
+    },
+    {
+        "id": 4,
+        "nombre": "papas",
+        "imagen": "/png/papas.png",
+        "precio": 700
+    },
+    {
+        "id": 5,
+        "nombre": "lechuga",
+        "imagen": "/png/lechuga.png",
+        "precio": 1000
+    },
+    {
+        "id": 6,
+        "nombre": "tomate",
+        "imagen": "/png/tomate.png",
+        "precio": 1500
+    }
+]
